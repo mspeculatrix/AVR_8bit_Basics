@@ -16,7 +16,7 @@ BAUD  = 38400UL			# Download rate - can try 19200 or 38400
 
 # Include file directories. This is very specific to my dev environment.
 # The directory referred to (avrlib) is actually a symlink to the directory
-# where my own libraries ad header files are stored. You'll need to adapt this
+# where my own libraries and header files are stored. You'll need to adapt this
 # to your own setup.
 LIBDIR = $(HOME)/avrlib
 
